@@ -1,7 +1,4 @@
 
-local function 运行脚本服务()
-end
-运行脚本服务()
 pcall(function()
 xx=
 {

@@ -61,8 +61,8 @@ dialog33333333=AlertDialog.Builder(this)
 .setView(loadlayout(xx))
 --[[.setPositiveButton("确定",{onClick=function(v)end})
 .setNegativeButton("取消",nil)
-]]
-.show()
+
+.show()]]
 .setCancelable(false) --弹窗禁止触摸  
 p333=dialog33333333.getWindow().getAttributes()
     --p.width=(activity.Width-200);
@@ -211,7 +211,7 @@ UiManagergetFragmentgetWebView29.loadUrl(随机链接)
 end)
 end
 --启动Ticker定时器
-ti9.start()
+
 
 
 

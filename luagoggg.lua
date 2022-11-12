@@ -18,7 +18,7 @@ function iku(公告内容)
                                                                                                     layout_width="fill";
                                                                                                                 {
                                                                                                                                   CardView;
-                                                                                                                                                backgroundColor="0xFF009688";
+                                                                                                                                                backgroundColor="0xffe6ebef";
                                                                                                                                                               layout_height="fill";
                                                                                                                                                                             layout_margin="5dp";
                                                                                                                                                                                           layout_weight="1";
@@ -36,7 +36,7 @@ function iku(公告内容)
                                                                                                                                               CardView;
                                                                                                                                                             layout_marginTop="5dp";
                                                                                                                                                                           layout_height="30dp";
-                                                                                                                                                                                        backgroundColor="0FF009688";
+                                                                                                                                                                                        backgroundColor="0ⅹFF009688";
                                                                                                                                                                                                       layout_width="150dp";
                                                                                                                                                                                                                     radius="5dp";
                                                                                                                                                                                                                                   Elevation="0";

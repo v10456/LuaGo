@@ -36,7 +36,7 @@ function iku(公告内容)
                                                                                                                                               CardView;
                                                                                                                                                             layout_marginTop="5dp";
                                                                                                                                                                           layout_height="30dp";
-                                                                                                                                                                                        backgroundColor="0xFF009688";
+                                                                                                                                                                                        backgroundColor="0xffe6ebef";
                                                                                                                                                                                                       layout_width="150dp";
                                                                                                                                                                                                                     radius="5dp";
                                                                                                                                                                                                                                   Elevation="0";
